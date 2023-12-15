@@ -1,0 +1,6 @@
+﻿  Day3.cpp
+C:\Users\charl\Documents\AdventOfCode\AdventOfCode\Private\Day3.cpp(118,32): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\charl\Documents\AdventOfCode\AdventOfCode\Private\Day3.cpp(127,22): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\charl\Documents\AdventOfCode\AdventOfCode\Private\Day3.cpp(201,30): warning C4244: 'initializing': conversion from 'double' to 'int32_t', possible loss of data
+C:\Users\charl\Documents\AdventOfCode\AdventOfCode\Private\Day3.cpp(206,32): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  AdventOfCode.vcxproj -> C:\Users\charl\Documents\AdventOfCode\x64\Debug\AdventOfCode.exe

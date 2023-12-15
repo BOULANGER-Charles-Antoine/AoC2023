@@ -1,0 +1,12 @@
+﻿  AdventOfCode.cpp
+  Day3.cpp
+C:\Users\charl\Documents\AdventOfCode\AdventOfCode\Private\Day3.cpp(125,32): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\charl\Documents\AdventOfCode\AdventOfCode\Private\Day3.cpp(134,22): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\charl\Documents\AdventOfCode\AdventOfCode\Private\Day3.cpp(208,30): warning C4244: 'initializing': conversion from 'double' to 'int32_t', possible loss of data
+C:\Users\charl\Documents\AdventOfCode\AdventOfCode\Private\Day3.cpp(213,32): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  Generating code
+  19 of 637 functions ( 3.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    3 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  AdventOfCode.vcxproj -> C:\Users\charl\Documents\AdventOfCode\x64\Release\AdventOfCode.exe

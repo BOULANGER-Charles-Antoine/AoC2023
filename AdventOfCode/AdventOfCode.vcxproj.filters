@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\Public">
+      <UniqueIdentifier>{078fe936-1b69-470f-8591-1353c53e5dc0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Private">
+      <UniqueIdentifier>{44ebff77-f453-4289-8073-d9a8729fd53f}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="AdventOfCode.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Private\Day1.cpp">
+      <Filter>Source Files\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="Private\Day2.cpp">
+      <Filter>Source Files\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="Private\Day3.cpp">
+      <Filter>Source Files\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="Private\Day4.cpp">
+      <Filter>Source Files\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="Private\Day5.cpp">
+      <Filter>Source Files\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="Private\Day6.cpp">
+      <Filter>Source Files\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="Private\Day7.cpp">
+      <Filter>Source Files\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="Private\Day8.cpp">
+      <Filter>Source Files\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="Private\Day9.cpp">
+      <Filter>Source Files\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="Private\Utils.cpp">
+      <Filter>Source Files\Private</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Public\Day1.h">
+      <Filter>Source Files\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="Public\Day2.h">
+      <Filter>Source Files\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="Public\Day3.h">
+      <Filter>Source Files\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="Public\Day4.h">
+      <Filter>Source Files\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="Public\Day5.h">
+      <Filter>Source Files\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="Public\Day6.h">
+      <Filter>Source Files\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="Public\Day7.h">
+      <Filter>Source Files\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="Public\Day8.h">
+      <Filter>Source Files\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="Public\Day9.h">
+      <Filter>Source Files\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="Public\Utils.h">
+      <Filter>Source Files\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
